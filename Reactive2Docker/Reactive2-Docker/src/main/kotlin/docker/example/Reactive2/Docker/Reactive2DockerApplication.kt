@@ -1,4 +1,4 @@
-package com.example.Reactive2.Docker
+package docker.example.Reactive2.Docker
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
